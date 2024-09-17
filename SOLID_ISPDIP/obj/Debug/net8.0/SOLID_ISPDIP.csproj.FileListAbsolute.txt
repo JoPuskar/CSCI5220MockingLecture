@@ -1,0 +1,5 @@
+C:\Users\JOSHIP1\OneDrive - East Tennessee State University\Fall24\Soft v&v\CSCI5220MockingLecture\SOLID_ISPDIP\obj\Debug\net8.0\SOLID_ISPDIP.csproj.AssemblyReference.cache
+C:\Users\JOSHIP1\OneDrive - East Tennessee State University\Fall24\Soft v&v\CSCI5220MockingLecture\SOLID_ISPDIP\obj\Debug\net8.0\SOLID_ISPDIP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOSHIP1\OneDrive - East Tennessee State University\Fall24\Soft v&v\CSCI5220MockingLecture\SOLID_ISPDIP\obj\Debug\net8.0\SOLID_ISPDIP.AssemblyInfoInputs.cache
+C:\Users\JOSHIP1\OneDrive - East Tennessee State University\Fall24\Soft v&v\CSCI5220MockingLecture\SOLID_ISPDIP\obj\Debug\net8.0\SOLID_ISPDIP.AssemblyInfo.cs
+C:\Users\JOSHIP1\OneDrive - East Tennessee State University\Fall24\Soft v&v\CSCI5220MockingLecture\SOLID_ISPDIP\obj\Debug\net8.0\SOLID_ISPDIP.csproj.CoreCompileInputs.cache

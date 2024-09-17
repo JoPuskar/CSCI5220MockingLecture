@@ -1,0 +1,11 @@
+C:\Users\JOSHIP1\OneDrive - East Tennessee State University\Fall24\Soft v&v\CSCI5220MockingLecture\RemoteLib\bin\Debug\net8.0\RemoteLib.deps.json
+C:\Users\JOSHIP1\OneDrive - East Tennessee State University\Fall24\Soft v&v\CSCI5220MockingLecture\RemoteLib\bin\Debug\net8.0\RemoteLib.dll
+C:\Users\JOSHIP1\OneDrive - East Tennessee State University\Fall24\Soft v&v\CSCI5220MockingLecture\RemoteLib\bin\Debug\net8.0\RemoteLib.pdb
+C:\Users\JOSHIP1\OneDrive - East Tennessee State University\Fall24\Soft v&v\CSCI5220MockingLecture\RemoteLib\obj\Debug\net8.0\RemoteLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOSHIP1\OneDrive - East Tennessee State University\Fall24\Soft v&v\CSCI5220MockingLecture\RemoteLib\obj\Debug\net8.0\RemoteLib.AssemblyInfoInputs.cache
+C:\Users\JOSHIP1\OneDrive - East Tennessee State University\Fall24\Soft v&v\CSCI5220MockingLecture\RemoteLib\obj\Debug\net8.0\RemoteLib.AssemblyInfo.cs
+C:\Users\JOSHIP1\OneDrive - East Tennessee State University\Fall24\Soft v&v\CSCI5220MockingLecture\RemoteLib\obj\Debug\net8.0\RemoteLib.csproj.CoreCompileInputs.cache
+C:\Users\JOSHIP1\OneDrive - East Tennessee State University\Fall24\Soft v&v\CSCI5220MockingLecture\RemoteLib\obj\Debug\net8.0\RemoteLib.dll
+C:\Users\JOSHIP1\OneDrive - East Tennessee State University\Fall24\Soft v&v\CSCI5220MockingLecture\RemoteLib\obj\Debug\net8.0\refint\RemoteLib.dll
+C:\Users\JOSHIP1\OneDrive - East Tennessee State University\Fall24\Soft v&v\CSCI5220MockingLecture\RemoteLib\obj\Debug\net8.0\RemoteLib.pdb
+C:\Users\JOSHIP1\OneDrive - East Tennessee State University\Fall24\Soft v&v\CSCI5220MockingLecture\RemoteLib\obj\Debug\net8.0\ref\RemoteLib.dll

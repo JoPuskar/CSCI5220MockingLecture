@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JOSHIP1\\OneDrive - East Tennessee State University\\Fall24\\Soft v\u0026v\\CSCI5220MockingLecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53F8EEA8-6242-4433-BB30-8523014C69C9}|RemoteUnitTesting\\RemoteUnitTesting.csproj|c:\\users\\joship1\\onedrive - east tennessee state university\\fall24\\soft v\u0026v\\csci5220mockinglecture\\remoteunittesting\\remoteunittesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F8EEA8-6242-4433-BB30-8523014C69C9}|RemoteUnitTesting\\RemoteUnitTesting.csproj|solutionrelative:remoteunittesting\\remoteunittesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955AE456-B386-48AB-AA1E-A88E704E3711}|RemoteLib\\RemoteLib.csproj|c:\\users\\joship1\\onedrive - east tennessee state university\\fall24\\soft v\u0026v\\csci5220mockinglecture\\remotelib\\remote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955AE456-B386-48AB-AA1E-A88E704E3711}|RemoteLib\\RemoteLib.csproj|solutionrelative:remotelib\\remote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955AE456-B386-48AB-AA1E-A88E704E3711}|RemoteLib\\RemoteLib.csproj|c:\\users\\joship1\\onedrive - east tennessee state university\\fall24\\soft v\u0026v\\csci5220mockinglecture\\remotelib\\idevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955AE456-B386-48AB-AA1E-A88E704E3711}|RemoteLib\\RemoteLib.csproj|solutionrelative:remotelib\\idevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9C70A0-9257-4CA8-BCA5-6F7B35465E38}|SOLID_ISPDIP\\SOLID_ISPDIP.csproj|c:\\users\\joship1\\onedrive - east tennessee state university\\fall24\\soft v\u0026v\\csci5220mockinglecture\\solid_ispdip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9C70A0-9257-4CA8-BCA5-6F7B35465E38}|SOLID_ISPDIP\\SOLID_ISPDIP.csproj|solutionrelative:solid_ispdip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Remote.cs",
+              "DocumentMoniker": "C:\\Users\\JOSHIP1\\OneDrive - East Tennessee State University\\Fall24\\Soft v\u0026v\\CSCI5220MockingLecture\\RemoteLib\\Remote.cs",
+              "RelativeDocumentMoniker": "RemoteLib\\Remote.cs",
+              "ToolTip": "C:\\Users\\JOSHIP1\\OneDrive - East Tennessee State University\\Fall24\\Soft v\u0026v\\CSCI5220MockingLecture\\RemoteLib\\Remote.cs*",
+              "RelativeToolTip": "RemoteLib\\Remote.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:24:54.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RemoteUnitTesting.cs",
+              "DocumentMoniker": "C:\\Users\\JOSHIP1\\OneDrive - East Tennessee State University\\Fall24\\Soft v\u0026v\\CSCI5220MockingLecture\\RemoteUnitTesting\\RemoteUnitTesting.cs",
+              "RelativeDocumentMoniker": "RemoteUnitTesting\\RemoteUnitTesting.cs",
+              "ToolTip": "C:\\Users\\JOSHIP1\\OneDrive - East Tennessee State University\\Fall24\\Soft v\u0026v\\CSCI5220MockingLecture\\RemoteUnitTesting\\RemoteUnitTesting.cs*",
+              "RelativeToolTip": "RemoteUnitTesting\\RemoteUnitTesting.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:12:51.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDevice.cs",
+              "DocumentMoniker": "C:\\Users\\JOSHIP1\\OneDrive - East Tennessee State University\\Fall24\\Soft v\u0026v\\CSCI5220MockingLecture\\RemoteLib\\IDevice.cs",
+              "RelativeDocumentMoniker": "RemoteLib\\IDevice.cs",
+              "ToolTip": "C:\\Users\\JOSHIP1\\OneDrive - East Tennessee State University\\Fall24\\Soft v\u0026v\\CSCI5220MockingLecture\\RemoteLib\\IDevice.cs*",
+              "RelativeToolTip": "RemoteLib\\IDevice.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:12:00.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JOSHIP1\\OneDrive - East Tennessee State University\\Fall24\\Soft v\u0026v\\CSCI5220MockingLecture\\SOLID_ISPDIP\\Program.cs",
+              "RelativeDocumentMoniker": "SOLID_ISPDIP\\Program.cs",
+              "ToolTip": "C:\\Users\\JOSHIP1\\OneDrive - East Tennessee State University\\Fall24\\Soft v\u0026v\\CSCI5220MockingLecture\\SOLID_ISPDIP\\Program.cs",
+              "RelativeToolTip": "SOLID_ISPDIP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T21:17:30.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

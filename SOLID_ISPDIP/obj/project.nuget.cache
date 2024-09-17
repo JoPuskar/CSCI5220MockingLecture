@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "br82NSUf6lw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JOSHIP1\\OneDrive - East Tennessee State University\\Fall24\\Soft v&v\\CSCI5220MockingLecture\\SOLID_ISPDIP\\SOLID_ISPDIP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JOSHIP1\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\JOSHIP1\\.nuget\\packages\\nsubstitute\\5.1.0\\nsubstitute.5.1.0.nupkg.sha512",
+    "C:\\Users\\JOSHIP1\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
