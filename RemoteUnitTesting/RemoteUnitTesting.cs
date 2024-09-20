@@ -14,9 +14,30 @@ namespace RemoteUnitTesting
             sut.ToggleDevicePower();
 
             //Assert that the device received the call
-            device.Received().TurnON();
+            device.Received().TurnOn();
 
             //Assert.Fail("Work in Progress");
+        }
+
+        [Test]
+        public void CanSendTurnOffMessageToDevice()
+        {
+            IDevice device = Substitute.For<IDevice>();
+            Remote sut = new(device);
+            device.IsOn().Returns(true);
+            sut.ToggleDevicePower(); // Turn off
+            device.Received().TurnOff();
+            device.DidNotReceive().TurnOn();
+        }
+
+        [Test]
+        public void CanTurnUpTheVolumeOfTheDevice()
+        {
+            IDevice device = Substitute.For<IDevice>();
+            Remote sut = new(device);
+            device.IsOn().Returns(true);
+            sut.VolumeUp(1);
+            device.Received().VolumeUp(1);
         }
     }
 }

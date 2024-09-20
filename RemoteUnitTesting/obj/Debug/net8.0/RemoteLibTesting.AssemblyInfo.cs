@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RemoteLibTesting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78be706ed5e15d886ab8040d0590374d6144e101")]
 [assembly: System.Reflection.AssemblyProductAttribute("RemoteLibTesting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RemoteLibTesting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

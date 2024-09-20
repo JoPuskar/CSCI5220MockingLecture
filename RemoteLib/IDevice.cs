@@ -2,6 +2,9 @@
 {
     public interface IDevice
     {
-        void TurnON();
+        bool IsOn();
+        void TurnOff();
+        void TurnOn();
+        void VolumeUp(int volumeIncrement);
     }
 }

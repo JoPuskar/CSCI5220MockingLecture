@@ -17,6 +17,24 @@ public class Remote
 
     public void ToggleDevicePower()
     {
-        _device.TurnON();
+        if (_device.IsOn())
+        {
+            _device.TurnOff();
+        }
+        else { 
+
+            _device.TurnOn();
+        }
+    }
+    /// <summary>
+    /// 
+    /// </summary>
+    /// <param name="volumeIncrement"></param>
+    public void VolumeUp(int volumeIncrement)
+    {
+        if (_device.IsOn())
+        { 
+            _device.VolumeUp(volumeIncrement);
+        }
     }
 }

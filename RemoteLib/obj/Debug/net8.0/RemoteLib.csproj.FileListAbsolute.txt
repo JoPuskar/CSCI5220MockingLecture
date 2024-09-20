@@ -9,3 +9,4 @@ C:\Users\JOSHIP1\OneDrive - East Tennessee State University\Fall24\Soft v&v\CSCI
 C:\Users\JOSHIP1\OneDrive - East Tennessee State University\Fall24\Soft v&v\CSCI5220MockingLecture\RemoteLib\obj\Debug\net8.0\refint\RemoteLib.dll
 C:\Users\JOSHIP1\OneDrive - East Tennessee State University\Fall24\Soft v&v\CSCI5220MockingLecture\RemoteLib\obj\Debug\net8.0\RemoteLib.pdb
 C:\Users\JOSHIP1\OneDrive - East Tennessee State University\Fall24\Soft v&v\CSCI5220MockingLecture\RemoteLib\obj\Debug\net8.0\ref\RemoteLib.dll
+C:\Users\JOSHIP1\OneDrive - East Tennessee State University\Fall24\Soft v&v\CSCI5220MockingLecture\RemoteLib\obj\Debug\net8.0\RemoteLib.sourcelink.json
